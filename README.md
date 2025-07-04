@@ -21,14 +21,14 @@ Here are some of my recent data analysis case studies:
 
 ## 📈 Skills & Tools
 
-* **Programming Languages:** SQL Sever Management Studio 20, VBA
+* **Programming Languages:** SQL Server Management Studio 20, VBA
 * **Data Analysis & Visualization:** Excel (Pivot Tables, Calculated Columns, Dashboards)
-* **Databases:** PostgreSQL and SQL Sever Management Studio 20
+* **Databases:** PostgreSQL and SQL Server Management Studio 20
 * **Version Control:** Git, GitHub
 
 ---
 
 ## ✉️ Let's Connect!
 
-* [LinkedIn]([https://www.linkedin.com/in/olafemiseyi](https://www.linkedin.com/in/akoworo-signs-522ba8257/))
+* [LinkedIn]([https://www.linkedin.com/in/akoworo-signs-522ba8257/)
 * [Email](akoworosigns@gmail.com)
