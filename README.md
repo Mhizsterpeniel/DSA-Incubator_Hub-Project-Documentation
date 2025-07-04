@@ -30,5 +30,5 @@ Here are some of my recent data analysis case studies:
 
 ## ✉️ Let's Connect!
 
-* [LinkedIn]([https://www.linkedin.com/in/akoworo-signs-522ba8257)
+* [LinkedIn](https://www.linkedin.com/in/akoworo-signs-522ba8257)
 * [Email](akoworosigns@gmail.com)
